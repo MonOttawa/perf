@@ -1,12 +1,12 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "title": "Eduf Lab",
+  "url": "https://edufernandes.com",
+  "domain": "edufernandes.com",
+  "description": "Site de Eduardo Fernandes",
+  "genre": "blog",
   "googleAnalyticsId": "GA ID. Update me",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Experimentos",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://update-me.com"
@@ -16,10 +16,10 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
+    "name": "Eduardo Fernandes",
     "twitterHandle": "update_me"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Eduardo Fernandes"
   }
 }
