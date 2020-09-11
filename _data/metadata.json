@@ -9,15 +9,15 @@
     "subtitle": "Experimentos",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://edufernandes.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://edufernandes.com/feed/feed.json"
   },
   "author": {
     "name": "Eduardo Fernandes",
-    "twitterHandle": "update_me"
+    "twitterHandle": "@eduf"
   },
   "publisher": {
     "name": "Eduardo Fernandes"
