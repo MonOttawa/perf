@@ -1,13 +1,13 @@
 ---
 layout: layouts/base.njk
-title: Sobre
+title: Coisas que se sabe sobre Eduardo Fernandes
 templateClass: tmpl-post
 eleventyNavigation:
   key: Sobre
   order: 3
 ---
 
-**Eduardo Fernandes** nasceu em São Paulo‚ mas mora na Serra Gaúcha‚ região rural de Três Coroas‚ desde 2008.
+**Eduardo Fernandes** nasceu em São Paulo‚ mas mora na Serra Gaúcha desde 2008.
 
 Já foi editor do site da revista *Superinteressante*, do site e do programa de rádio da revista *Trip,* produtor de conteúdo para Nokia Trends, iG, Abril, Editora Globo, Telefónica, Conrad Editora, entre outras empresas.
 

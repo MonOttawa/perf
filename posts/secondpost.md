@@ -1,7 +1,7 @@
 ---
 title: Segundo post
 description: This is a post on My Blog about leveraging agile frameworks.
-date: 03-07-2020
+date: 2018-05-02
 tags:
   - number-2
 layout: layouts/post.njk
